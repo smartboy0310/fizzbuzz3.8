@@ -1,0 +1,39 @@
+.fizzbuzz-section {
+   padding: 40px 0;
+}
+.fizzbuzz-form {
+   width: 100%;
+   max-width: 400px;
+   margin: 0 auto;
+   padding: 50px;
+   background-color: beige;
+   border-radius: 10px;
+}
+.fizzbuzz-form__input {
+   width: 100%;
+   max-width: 300px; 
+   border-radius: 5px;
+}
+.fizzbuzz-form__resault {
+   width: 100%;
+   max-width: 300px;
+   padding: 5px;
+   height: 35px;
+   background-color: #fff;
+   border-radius: 5px;
+}
+.fizzbuzz-form__btn {
+   width: 100%;
+   max-width: 100px;
+   padding: 4px 25px;
+   background-color: #5FB4A2;
+   border: none;
+   border-radius: 5px;
+}
+.fizzbuzz-form__btn:hover {
+   background-color: #198f75;
+}
+.fizzbuzz-form__btn:active {
+   color: #fff;
+   background-color: #09362b;
+}
